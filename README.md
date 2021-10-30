@@ -23,7 +23,20 @@ Our max temperature between the two only vary by 2 degrees.
 ![This is an image](https://github.com/Fbullman/Surfs_up/blob/main/December.png)
 
 
+The analysis do not show a significant difference in temperature changes for the months of June and December.
+
+The key differences in weather are:
+1. Minimum temperature is 64 in June vs 56 in December
+2. Standard Deviation 3.26 in June vs 3.75 in December
+3. Average temperature is 74.9 in June vs 71.0 in December
+
+
 ## Summary 
+The weather temperature on the Island of Oahu, is overall stable throughout the year, making it the perfect location for the surf and ice cream shop business. However, we should consider creating two additional queries to measure precipitation and wind speed for both June and December as rainy and windy conditions might have an effect on the surf and ice cream business.
+
+Bellow is the image of the analysis of daily rain precipitation between August 23rd of 2016 to same day of 2017 
+
+![This is an image](https://github.com/Fbullman/Surfs_up/blob/main/December.png)
 
 
 
