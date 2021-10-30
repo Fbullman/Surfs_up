@@ -13,7 +13,7 @@ Our max temperature between the two only vary by 2 degrees.
 - June Weather Data - December Weather Data
 
 
-![This is an image](https://github.com/Fbullman/Surfs_up/blob/main/June.png | width=50) | ![This is an image](https://github.com/Fbullman/Surfs_up/blob/main/December.png | width=50)
+![This is an image](https://github.com/Fbullman/Surfs_up/blob/main/June.png | width=50px) | ![This is an image](https://github.com/Fbullman/Surfs_up/blob/main/December.png | width=50px)
 
 
 
