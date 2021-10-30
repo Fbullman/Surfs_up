@@ -8,7 +8,10 @@ informing temperature data for the months of June and December, in order to dete
 The average overall temperature only varies by less than 4 degress.
 Our low in December is 8 degress lower than June's lowest.
 Our max temperature between the two only vary by 2 degrees.
-June Weather Data
+
+
+- June Weather Data
+!this is an image
 
 
 
