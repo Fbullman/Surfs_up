@@ -12,8 +12,11 @@ Our max temperature between the two only vary by 2 degrees.
 
 - June Weather Data
 
-![This is an image](https://github.com/Fbullman/School_District_Analysis/blob/main/score%20by%20size.png)
+![This is an image](https://github.com/Fbullman/Surfs_up/blob/main/June.png)
 
+
+- December Weather Data
+![This is an image](https://github.com/Fbullman/Surfs_up/blob/main/June.png)
 
 
 
