@@ -36,7 +36,7 @@ The weather temperature on the Island of Oahu, is overall stable throughout the 
 
 Bellow is the image of the analysis of daily rain precipitation between August 23rd of 2016 to same day of 2017 
 
-![This is an image](https://github.com/Fbullman/Surfs_up/blob/main/December.png)
+![This is an image](https://github.com/Fbullman/Surfs_up/blob/main/precipitation%20(2).png)
 
 
 
