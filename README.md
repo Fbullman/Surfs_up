@@ -10,9 +10,7 @@ Our low in December is 8 degress lower than June's lowest.
 Our max temperature between the two only vary by 2 degrees.
 
 
-- June Weather Data
-
-- December Weather Data
+- June Weather Data - December Weather Data
 
 
 ![This is an image](https://github.com/Fbullman/Surfs_up/blob/main/June.png) | ![This is an image](https://github.com/Fbullman/Surfs_up/blob/main/December.png)
