@@ -6,9 +6,9 @@ informing temperature data for the months of June and December, in order to dete
 ## Results
 Comparing weather data between June and December
 
-The average overall temperature only varies by less than 4 degress.
-Our low in December is 8 degress lower than June's lowest.
-Our max temperature between the two only vary by 2 degrees.
+The average overall temperature only varies by less than 4 degrees.
+Low temperature in December is 8 degress lower than June's lowest.
+Max temperature between the two months only vary by 2 degrees.
 
 
 - June Weather Data 
